@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InvitacionWeb")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e271613816cf1a17caa86290d93d8a80fcae0435")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0e61924d4b0be6ee24cc036a6e6501eb921f3ba4")]
 [assembly: System.Reflection.AssemblyProductAttribute("InvitacionWeb")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InvitacionWeb")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
