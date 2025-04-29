@@ -1,0 +1,12 @@
+@{
+    ViewData["Title"] = "Invitacion al evento";
+}
+
+<h2>¡Estás invitado!</h2>
+<p>Fiesta de cumpleaños de Gastón - 25 de mayo, 20:00 hs</p>
+
+<form asp-action="Confirmar" method="post">
+    <input type="text" name="nombre" placeholder="Nombre" required />
+    <input type="text" name="apellido" placeholder="Apellido" required />
+    <button type="submit">Confirmar asistencia</button>
+</form>

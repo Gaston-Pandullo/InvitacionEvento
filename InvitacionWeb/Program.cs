@@ -1,7 +1,13 @@
+using InvitacionWeb.Data;
+using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
+
+// Configuracion de la base de datos
+builder.Services.AddDbContext<AppDbContext>(options => options.UseSqlite("Data Source=invitados.db"));
 
 var app = builder.Build();
 
@@ -22,6 +28,6 @@ app.UseAuthorization();
 
 app.MapControllerRoute(
     name: "default",
-    pattern: "{controller=Home}/{action=Index}/{id?}");
+    pattern: "{controller=Evento}/{action=Index}/{id?}");
 
 app.Run();
