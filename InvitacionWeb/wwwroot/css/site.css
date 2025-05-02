@@ -20,3 +20,31 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f5;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  background-color: #4a90e2;
+  color: white;
+  padding: 20px;
+}
+
+.titulo-evento {
+  margin: 0;
+}
+
+.contenido {
+  padding: 40px 20px;
+}
+
+footer {
+  background-color: #ddd;
+  padding: 10px;
+  font-size: 0.9em;
+}
