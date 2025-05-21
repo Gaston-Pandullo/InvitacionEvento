@@ -28,3 +28,4 @@ C:\Users\Usuario\Desktop\BackUp\Code\.NET\Proyectos\EventoApp\obj\Debug\net8.0\r
 C:\Users\Usuario\Desktop\BackUp\Code\.NET\Proyectos\EventoApp\obj\Debug\net8.0\EventoApp.pdb
 C:\Users\Usuario\Desktop\BackUp\Code\.NET\Proyectos\EventoApp\obj\Debug\net8.0\EventoApp.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\BackUp\Code\.NET\Proyectos\EventoApp\obj\Debug\net8.0\ref\EventoApp.dll
+C:\Users\Usuario\Desktop\BackUp\Code\.NET\Proyectos\EventoApp\obj\Debug\net8.0\EventoApp.sourcelink.json
